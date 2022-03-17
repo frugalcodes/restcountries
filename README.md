@@ -34,7 +34,7 @@
 
 ## Overview
 
-![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
+![Design preview for the REST Countries API with color theme switcher coding challenge](./assests/design/desktop-design-home-light.jpg)
 
 Thanks for checking out this Project.)
 
