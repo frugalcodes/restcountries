@@ -160,8 +160,7 @@ body.dark .btn-toggle .far {
 
 .modal {
 	background-color: var(--body);
-	display: flex;
-
+	display: none;
 	align-items: center;
 	justify-content: center;
 	position: fixed;
